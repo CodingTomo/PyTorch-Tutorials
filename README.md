@@ -8,7 +8,8 @@ L'ordine che si consiglia di seguire è:
 2. PyTorch_Calculus
 3. PyTorch_Ottimizzazione
 4. PyTorch_Moduli
-5. Work in progress!
+5. PyTorch_Convolutional_NN
+6. Work in Progress!
 
 **Referenze**:
 - [AMLD2020](https://appliedmldays.org)
