@@ -14,3 +14,4 @@ L'ordine che si consiglia di seguire è:
 **Referenze**:
 - [AMLD2020](https://appliedmldays.org)
 - [AMLD2020 - Workshops](https://appliedmldays.org/workshops)
+- [Jeremy Jordan's blog](https://www.jeremyjordan.me/data-science/)
