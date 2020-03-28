@@ -9,9 +9,11 @@ L'ordine che si consiglia di seguire è:
 3. PyTorch_Ottimizzazione
 4. PyTorch_Moduli
 5. PyTorch_Convolutional_NN
-6. Work in Progress!
+6. PyTorch_Autoencoders
+7. Work in progress!
 
 **Referenze**:
 - [AMLD2020](https://appliedmldays.org)
-- [AMLD2020 - Workshops](https://appliedmldays.org/workshops)
+- [AMLD2020 - Workshops - PyTorch tutorial](https://appliedmldays.org/workshops/pytorch-tutorial)
+- [AMLD2020 - Workshops - Generative Modeling for Computer Vision](https://appliedmldays.org/workshops/generative-modeling-for-computer-vision)
 - [Jeremy Jordan's blog](https://www.jeremyjordan.me/data-science/)
